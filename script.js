@@ -1,12 +1,25 @@
 // Static festivals that don't change dates
 const staticFestivals = [
-    { name: "Republic Day", month: 1, day: 26 },
-    { name: "Independence Day", month: 8, day: 15 },
-    { name: "Gandhi Jayanti", month: 10, day: 2 },
-    { name: "Christmas", month: 12, day: 25 },
     { name: "New Year's Day", month: 1, day: 1 },
-    { name: "Labour Day", month: 5, day: 1 }
-  ];
+    { name: "National Youth Day", month: 1, day: 12 },
+    { name: "Republic Day", month: 1, day: 26 },
+    { name: "International Women's Day", month: 3, day: 8 },
+    { name: "National Science Day", month: 2, day: 28 },
+    { name: "Ambedkar Jayanti", month: 4, day: 14 },
+    { name: "May Day (Labour Day)", month: 5, day: 1 },
+    { name: "World Environment Day", month: 6, day: 5 },
+    { name: "National Doctors' Day", month: 7, day: 1 },
+    { name: "Independence Day", month: 8, day: 15 },
+    { name: "Teacher's Day", month: 9, day: 5 },
+    { name: "Mahatma Gandhi Jayanti", month: 10, day: 2 },
+    { name: "Children's Day", month: 11, day: 14 },
+    { name: "Indira Gandhi Jayanti", month: 11, day: 19 },
+    { name: "World AIDS Day", month: 12, day: 1 },
+    { name: "National Mathematics Day", month: 12, day: 22 },
+    { name: "Atal Jayanti", month: 12, day: 25 },
+    { name: "Christmas", month: 12, day: 25 }
+];
+
   
   let dynamicFestivals = [];
   
