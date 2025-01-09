@@ -168,6 +168,8 @@
   }
   .calendar .days .today {
     font-size: 2rem;
+    background-color: #b38add;
+    color: white;
   }
   .calendar .days .event {
     position: relative;

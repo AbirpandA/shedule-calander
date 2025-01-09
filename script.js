@@ -69,8 +69,8 @@ const staticFestivals = [
   // Function to fetch festival dates from API
   async function fetchFestivalDates(year) {
     try {
-      // Using Calendarific API as an example
-      const apiKey = 'MJChxXAgkUFmpxOFqpFLll1x3aLWVpSB'; // Replace with your API key
+      
+      const apiKey = 'MJChxXAgkUFmpxOFqpFLll1x3aLWVpSB'; 
       const response = await fetch(
         `https://calendarific.com/api/v2/holidays?api_key=${apiKey}&country=IN&year=${year}&type=national,religious`
       );
@@ -98,6 +98,8 @@ const staticFestivals = [
     const lastDate = lastDay.getDate();
     const day = firstDay.getDay();
     const nextDays = 7 - lastDay.getDay() - 1;
+
+    
   
     date.innerHTML = months[month] + " " + year;
   
