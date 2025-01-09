@@ -321,7 +321,7 @@ const staticFestivals = [
       festivalNames.forEach(festName => {
         events += `<div class="event">
             <div class="title">
-              <i class="fas fa-circle" style="color: #4CAF50;"></i>
+              <i class="fas fa-circle" style="color:rgb(106, 218, 192);"></i>
               <h3 class="event-title">${festName} (Festival)</h3>
             </div>
         </div>`;
