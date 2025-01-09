@@ -494,7 +494,7 @@
   }
   
   .calendar .days .event.festival::after {
-    left: 50%;  /* Adjust position of event indicator when both are present */
+    left: 50%;  /*  position of event indicator when both are present */
   }
   
   /* media queries */
