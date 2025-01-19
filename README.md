@@ -25,6 +25,7 @@ Stay tuned for updates!
 ## 🙋‍♂️ Support
 If you have any questions or suggestions for features, feel free to reach out:
 - GitHub: [AbirpandA](https://github.com/AbirpandA)
-- GitHub: [AbirpandA](https://www.linkedin.com/in/abir-panda-5028a6335/)
+- linkedIn: [AbirpandA](https://www.linkedin.com/in/abir-panda-5028a6335/)
 
 We’d love to hear your feedback!
+LiveLink: [AbirpandA](https://personaeventcalander.netlify.app/)
